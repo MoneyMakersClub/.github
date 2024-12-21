@@ -11,18 +11,18 @@
 <table>
   <tr height="160px">
     <td width="300px" align="center">
-      <a href="https://github.com/hyerindev">
-        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/hyerindev" />
+      <a href="https://github.com/ch9968">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/ch9968" />
       </a>
     </td>
     <td width="300px" align="center">
-      <a href="https://github.com/rwaeng">
-        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/rwaeng" />
+      <a href="https://github.com/YoungseoChoi23">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/YoungseoChoi23" />
       </a>
     </td>
     <td width="300px" align="center">
-      <a href="https://github.com/sj0919">
-        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/sj0919" />
+      <a href="https://github.com/yoonjin-C">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/yoonjin-C" />
       </a>
     </td>
   </tr>
