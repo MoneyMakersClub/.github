@@ -112,7 +112,7 @@
 | **핵심 기술**       | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-3178C6?style=for-the-badge&logo=zustand&logoColor=white) |
 | **스타일링**        | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)                                                                                                                         |
 | **데이터 처리**     | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)                                                                                                                                           |
-| **유틸리티**        | ![React DnD](https://img.shields.io/badge/React%20DnD-FE8A00?style=for-the-badge&logo=react&logoColor=white)![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)|
+| **유틸리티**        | ![React DnD](https://img.shields.io/badge/React%20DnD-FE8A00?style=for-the-badge&logo=react&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)|
 | **배포**           | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)                                                                                                                                         |
 
 ---
