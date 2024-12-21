@@ -103,7 +103,6 @@
 
 
 ## Tech Stacks
----
 ### FrontEnd
 
 | **분류**           | **기술**                                                                                                                                                                                                                                     |
@@ -115,6 +114,7 @@
 | **유틸리티**        | ![React DnD](https://img.shields.io/badge/React%20DnD-FE8A00?style=for-the-badge&logo=react&logoColor=white)![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)|
 | **배포**           | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)                                                                                                                                         |
 
+---
 
 ### BackEnd
 
