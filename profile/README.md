@@ -102,7 +102,8 @@
 </table>
 
 
-## 💻Tech Stacks
+
+## 💻 Tech Stacks
 ### FrontEnd
 
 | **분류**           | **기술**                                                                                                                                                                                                                                     |
