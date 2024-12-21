@@ -90,7 +90,7 @@
   </tr>
   <tr height="30px">
     <td align="center">
-      Backend
+      Backend
     </td>
     <td align="center">
       Backend
