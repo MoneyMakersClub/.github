@@ -54,25 +54,6 @@
       Frontend
     </td>
   </tr>
-
-  
-   <tr height="160px">
-    <td width="300px" align="center">
-      <a href="https://github.com/jud1thDev">
-        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/jud1thDev" />
-      </a>
-    </td>
-    <td width="300px" align="center">
-      <a href="https://github.com/YoungseoChoi23">
-        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/YoungseoChoi23" />
-      </a>
-    </td>
-    <td width="300px" align="center">
-      <a href="https://github.com/yoonjin-C">
-        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/yoonjin-C" />
-      </a>
-    </td>
-  </tr>
   <tr height="160px">
     <td width="300px" align="center">
       <a href="https://github.com/jud1thDev">
@@ -80,13 +61,13 @@
       </a>
     </td>
     <td width="300px" align="center">
-      <a href="https://github.com/YoungseoChoi23">
-        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/YoungseoChoi23" />
+      <a href="https://github.com/seohyun-lee">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/seohyun-lee" />
       </a>
     </td>
     <td width="300px" align="center">
-      <a href="https://github.com/yoonjin-C">
-        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/yoonjin-C" />
+      <a href="https://github.com/hyejin2234">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/hyejin2234" />
       </a>
     </td>
   </tr>
@@ -97,13 +78,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/YoungseoChoi23">
-        <b>최영서</b>
+      <a href="https://github.com/seohyun-lee">
+        <b>이서현</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/yoonjin-C">
-        <b>최윤진</b>
+      <a href="https://github.com/hyejin2234">
+        <b>황혜진</b>
       </a>
     </td>
   </tr>
