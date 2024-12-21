@@ -45,14 +45,77 @@
   </tr>
   <tr height="30px">
     <td align="center">
-      Product Manager <br>
-      Frontend Lead
+      Frontend
     </td>
     <td align="center">
-      Frontend Lead
+      Frontend
     </td>
     <td align="center">
-      Frontend Intern
+      Frontend
+    </td>
+  </tr>
+
+  
+   <tr height="160px">
+    <td width="300px" align="center">
+      <a href="https://github.com/jud1thDev">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/jud1thDev" />
+      </a>
+    </td>
+    <td width="300px" align="center">
+      <a href="https://github.com/YoungseoChoi23">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/YoungseoChoi23" />
+      </a>
+    </td>
+    <td width="300px" align="center">
+      <a href="https://github.com/yoonjin-C">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/yoonjin-C" />
+      </a>
+    </td>
+  </tr>
+  <tr height="160px">
+    <td width="300px" align="center">
+      <a href="https://github.com/jud1thDev">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/jud1thDev" />
+      </a>
+    </td>
+    <td width="300px" align="center">
+      <a href="https://github.com/YoungseoChoi23">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/YoungseoChoi23" />
+      </a>
+    </td>
+    <td width="300px" align="center">
+      <a href="https://github.com/yoonjin-C">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/yoonjin-C" />
+      </a>
+    </td>
+  </tr>
+  <tr height="30px">
+    <td align="center">
+      <a href="https://github.com/jud1thDev">
+        <b>정유정</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YoungseoChoi23">
+        <b>최영서</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yoonjin-C">
+        <b>최윤진</b>
+      </a>
+    </td>
+  </tr>
+  <tr height="30px">
+    <td align="center">
+      Backend
+    </td>
+    <td align="center">
+      Backend
+    </td>
+    <td align="center">
+      Backend
     </td>
   </tr>
 </table>
